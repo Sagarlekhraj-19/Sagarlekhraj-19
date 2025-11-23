@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sagar-lekhraj-1351222b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.upwork.com/freelancers/~yourprofile"><img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
   <a href="https://www.fiverr.com/yourusername"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
-  <a href="https://www.behance.net/yourusername"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+  <a href="https://www.behance.net/sagarlekhraj"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
 </p>
 
 ---
