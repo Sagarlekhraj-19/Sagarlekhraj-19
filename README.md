@@ -12,7 +12,7 @@
 </p>
 
 ---
-##https://www.canva.com/design/DAG6WJsXqCE/5s4L5eD4KT9rLG_-Rj11cQ/edit?utm_content=DAG6WJsXqCE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 🚀 About Me
 
 ```python
